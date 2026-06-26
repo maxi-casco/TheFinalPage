@@ -1,0 +1,6 @@
+{
+  "name": "TheFinalPage",
+  "description": "Servicio digital premium especializado en crear landings ultra profesionales de alta conversión que cierran embudos de ventas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
